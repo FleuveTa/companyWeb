@@ -27,6 +27,8 @@ npm start
 ### Go localhost:3000/dashboard to edit content
 - Edit content in website
 - Add/Delete recruitment 
+### Send email in /contact
+- If you see an success alert, your form was sent successfully
 
 ## License
 
